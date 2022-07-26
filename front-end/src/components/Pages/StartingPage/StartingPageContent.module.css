@@ -1,0 +1,23 @@
+.starting {
+  margin: 6rem auto;
+}
+
+.starting h1 {
+  width: 50%;
+  color: #fff;
+  font-size: 3.5rem;
+  border: 2px solid #fff;
+  border-radius: 40px;
+}
+
+.actions a {
+  background-color: #064663;
+  border: 1px solid #064663;
+  font-size: 35px;
+}
+
+.actions a:hover,
+.actions a:active {
+  background-color: rgba(6, 70, 99, 0.8);
+  border-color: rgba(6, 70, 99, 0.8);
+}

@@ -1,0 +1,29 @@
+.authentication {
+  width: 90%;
+  max-width: 25rem;
+  margin: 7rem auto;
+  text-align: center;
+}
+
+.authentication form {
+  margin-bottom: 1rem;
+}
+.authentication form button {
+  background-color: #064663;
+  border: 1px solid #064663;
+}
+.authentication button:hover,
+.authentication button:active {
+  background-color: rgba(6, 70, 99, 0.94);
+  border: 1px solid #064663;
+}
+
+.toggle button {
+  border: 1px solid #041c32;
+  color: #041c32;
+}
+.toggle button:hover,
+.toggle button:active {
+  background-color: #dadada;
+  color: #000;
+}

@@ -1,0 +1,14 @@
+.header {
+  height: 1vh;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #041c32;
+  color: #fff;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+}

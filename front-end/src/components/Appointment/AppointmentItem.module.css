@@ -1,0 +1,51 @@
+.card {
+  box-shadow: 0 0 2px 2px #e1e5ee;
+  border-radius: 10px;
+
+  max-height: 300px;
+  min-height: 200px;
+  max-width: 400px;
+}
+
+.card h3 {
+  margin: 0.4rem 0;
+}
+
+.card h4 {
+  margin-bottom: 0.2rem;
+  font-size: 18px;
+}
+
+.card span {
+  font-size: 16px;
+  line-height: 1.43;
+  margin-top: 0;
+  color: #938880;
+}
+
+.time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.time h4 {
+  margin: 0;
+}
+
+.action {
+  margin-top: 0.6rem;
+}
+
+.action button {
+  width: 100%;
+}
+
+/* .action button:first-child {
+  border: 1px solid #041c32;
+  color: #041c32;
+}
+.action button:first-child:hover,
+.action button:first-child:active {
+  background-color: #dadada;
+} */
